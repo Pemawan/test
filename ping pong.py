@@ -9,7 +9,7 @@ WHITE = (255, 255, 255)
 #define game constants 
 WIDTH, HEIGHT = 800, 600
 BALL_RADIUS = 10
-PADDLE_WIDTH = 100
+PADDLE_WIDTH = 100 
 PADDLE_HEIGHT = 20
 
 class Ball:
